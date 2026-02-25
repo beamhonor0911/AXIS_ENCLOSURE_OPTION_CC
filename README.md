@@ -34,13 +34,3 @@ To compile the `zoningoptimiser.cpp` file:
 g++ -std=c++17 -O2 zoningoptimiser.cpp -o zoningoptimiser
 ```
 
-<h2>🛡️ License:</h2>
-
-This project is licensed under the MIT License
-
-<h2>💖Like our work?</h2>
-
-For any queries on how to test/use contact anshuman.mondal@iitg.ac.in , b.ishaan@iitg.ac.in
-
-
-
