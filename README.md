@@ -10,10 +10,6 @@
   <img src="assets/screenshot.png" alt="Project Screenshot" width="700"/>
 </p>
 
-<h2>🚀 Demo</h2>
-
-[https://axis-enclosure-opti-cc-anshuman.vercel.app/](https://axis-enclosure-opti-cc-anshuman.vercel.app/)
-
 📁 Project Structure
 
 1. OUTPUT - Output files for all the sample inputs being used to test the algo.
